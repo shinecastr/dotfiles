@@ -1,0 +1,6 @@
+prompt=
+hide_scroll=true
+#matching=fuzzy
+show=drun,run
+lines=6
+layer=overlay
